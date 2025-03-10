@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IslaPirata.unity
+    guid: 08912caf309c39a438d8129a8ae0aadc
+  - enabled: 1
+    path: Assets/Scenes/Habitacion.unity
+    guid: 19b76925754398f4c96d532c01260092
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f418b88222c28c0498a601dbdad41b46, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c25dc24674bb4c94aa94255c21fe5ad3, type: 2}

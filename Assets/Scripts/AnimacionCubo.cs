@@ -29,12 +29,10 @@ public class AnimacionCubo : MonoBehaviour
     public void EspadaInteraccion()
     {
         Espada = !Espada;
-        Debug.Log("Espada:" + Espada);
     }
 
     public void SombreInteraccion()
     { 
         Sombrero = !Sombrero;
-        Debug.Log("Sombrero:" + Sombrero);
     }
 }
