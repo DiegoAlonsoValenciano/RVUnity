@@ -99,7 +99,7 @@ Material:
     - _Source: 0
     - _SourceMask: 0
     - _SpecularHighlights: 1
-    - _SpecularIntensity: 0.2
+    - _SpecularIntensity: 0.11
     - _SpreadDetailMap: 0
     - _SrcBlend: 1
     - _UVSec: 0
